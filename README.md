@@ -1,1 +1,1 @@
-# Controle-de-Invent-rio-com-C-digos-de-Barras
+# Controle de Inventário com Códigos de Barras
